@@ -125,5 +125,3 @@ exclude:
     "node_modules",
     "package.json",
   ]
-
-theme: jekyll-theme-midnight
